@@ -1,0 +1,2 @@
+umur = int(input("Berapa umurmu? "))
+print("Umur saya: %d" % umur)
